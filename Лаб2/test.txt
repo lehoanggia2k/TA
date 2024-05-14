@@ -1,0 +1,7 @@
+q0,a=q1
+q0,b=q4
+q0,c=q2
+q1,b=q4
+q2,c=q3
+q2,a=q4
+q4,c=q3
