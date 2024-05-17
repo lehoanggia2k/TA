@@ -1,0 +1,2 @@
+C:\Users\HoangGia\Desktop\labTazak\Лаб4\TA4\TA4\obj\Debug\TA4.csproj.AssemblyReference.cache
+C:\Users\HoangGia\Desktop\labTazak\Лаб4\TA4\TA4\obj\Debug\TA4.csproj.CoreCompileInputs.cache
