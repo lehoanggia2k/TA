@@ -1,0 +1,29 @@
+﻿print "in put a "
+scan a;
+print "in put b "
+scan b;
+c = 1
+for i = 1 to 10
+{
+	print i*10
+}
+if a > b
+{
+	c = a + b
+	if c > 5
+	{
+		print "in put c "
+		scan c;	
+	}
+}
+else
+{
+	for i = 1 to 10
+	{
+		print i*10
+	}
+	c = a - b
+	c = c * a
+	print "c = ", c
+}
+print "result = ",c
